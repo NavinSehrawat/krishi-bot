@@ -88,7 +88,6 @@
 
   <div id="result"></div>
   <footer>Created by: Navin Sehrawat</footer>
-
   <script>
     const tips = {
       "wheat": {
