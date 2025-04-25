@@ -87,6 +87,7 @@
   <button onclick="showTip()">सलाह दिखाओ</button>
 
   <div id="result"></div>
+  <footer>Created by: Navin Sehrawat</footer>
 
   <script>
     const tips = {
